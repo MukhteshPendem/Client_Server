@@ -1,0 +1,12 @@
+
+m	java:S106""+Replace this use of System.out by a logger.(Ö¾ÒÙ8­ş€çğ1J$272abd6e-7808-405f-a590-b1fa356ec73b
+m	java:S106#"+Replace this use of System.out by a logger.(µñ®ª8®ş€çğ1J$e039bc1e-6c22-49b6-8a25-90ec62c6a9f4
+r	java:S106*"+Replace this use of System.out by a logger.(‡ìò‘øÿÿÿÿ8²ş€çğ1J$92589a5d-3b3e-49f7-9f61-96ce1d31f951
+r	java:S106-"+Replace this use of System.out by a logger.(ÂÛŠ½úÿÿÿÿ8³ş€çğ1J$a27d9078-11bf-48fd-94c0-1a9c4b029e1a
+‡
+java:S2147@"DCombine this catch with the one at line 62, which has the same body.(”ı¾8™¯øğ1J$7b78b012-92b5-4f01-808a-a44cf61556db
+r	java:S106?"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8³¸¶øğ1J$c05c819b-34d8-4c74-a243-4b028efd1f9f
+r	java:S106A"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8˜”Ò€ñ1J$786d0e7d-5a81-47cc-ad65-3f203a5930ed
+m	java:S106G"+Replace this use of System.out by a logger.(Ãàé’8™”Ò€ñ1J$d3cdbcbe-f954-4d3c-8aaf-f9aa3d8c2a33
+o
+java:S1068"'Remove this unused "din" private field.(´¬•åÿÿÿÿÿ8´ş€çğ1J$8bc9efd4-e931-410c-8e85-3e019fe62152

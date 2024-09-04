@@ -1,0 +1,12 @@
+
+l	java:S106)"+Replace this use of System.out by a logger.(Ó÷îZ8ÿ‡‘ÿð1J$c7530354-a2f8-403a-a947-10f97d3b7dc6
+r	java:S106,"+Replace this use of System.out by a logger.(Å­ËÝúÿÿÿÿ8‚ˆ‘ÿð1J$6a84c8e8-b119-4561-b05c-1cf0413ce34f
+r	java:S106<"+Replace this use of System.out by a logger.(óúãûÿÿÿÿ8‚ˆ‘ÿð1J$5ce6d072-e7f3-4478-a398-6d2eea1eeed7
+r	java:S106B"+Replace this use of System.out by a logger.(£üæžüÿÿÿÿ8ƒˆ‘ÿð1J$3502f09b-31f8-4229-ac87-04399a8c8ca4
+m	java:S106F"+Replace this use of System.err by a logger.(çÝ¾Ú8ƒˆ‘ÿð1J$021901fa-72b6-440d-b85c-3117461bb992
+r	java:S106H"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ8Õÿ³€ñ1J$1039d9f5-28c7-454d-8b74-3d31fbc388e7
+l	java:S106O"+Replace this use of System.err by a logger.(¨‡êe8„ˆ‘ÿð1J$a09b3aa0-8ca0-473d-81cb-21b84ddcb65a
+s
+java:S1068"+Remove this unused "keyPair" private field.(Û×Ë¯øÿÿÿÿ8†ˆ‘ÿð1J$1690e289-fd96-4935-b525-119871fb355a
+k
+java:S1068"(Remove this unused "dout" private field.(ŠŽõ‘8†ˆ‘ÿð1J$f86e307e-7634-4f91-9f09-3b6b9d3f5abc
